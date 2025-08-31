@@ -20,5 +20,4 @@
 
 
 ## 🌐 Onde me encontrar
-- [LinkedIn](https://www.linkedin.com/in/vanessa-alvesz-7a986028a)
-- [GitHub](https://github.com/Vanessa-Alvesz)
+- [LinkedIn][(https://www.linkedin.com/in/vanessa-alvesz-7a986028a)](https://www.linkedin.com/in/vanessa-alves-7a986028a/)
