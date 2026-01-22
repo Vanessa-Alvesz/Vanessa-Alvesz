@@ -5,9 +5,11 @@
 
 
 ## 🌟 Sobre mim
-- Estudante de **Análise e Desenvolvimento de Sistemas**
-- Apaixonada por **Frontend** e design de interfaces
-- Experiência como **designer gráfico freelancer** (logotipos, identidade visual e artes digitais)
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 📊 Estudante de **Gestão de Tecnologia da Informação**
+- 🎨 Experiência como **Designer Gráfico Freelancer** (identidade visual, logotipos e artes digitais)
+- 💡 Interesse em **Frontend**, **Análise de Sistemas**, **Suporte em TI** e **Gestão de TI**
+- 📈 Perfil organizado, analítico e com visão de processos e negócios
 
 
 ## 🛠️ Tecnologias que estou aprendendo
@@ -15,6 +17,10 @@
 - JavaScript: Interatividade e lógica de front-end.
 - Python: Programação e automação básica.
 
+**Outros conhecimentos**
+
+- Noções de UX/UI e design de interfaces  
+- Conceitos de suporte e infraestrutura de TI  
 
 ## 📌 Projetos em Destaque - *Em breve…* 🚀
 
