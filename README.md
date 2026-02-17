@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou Vanessa Alves
 💻 Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web e organização de processos.
+
 🚀 Sempre em busca de evolução, colaboração e impacto real através da tecnologia.
+
 🎯 Foco em estágio na área de Tecnologia da Informação.
 
 
