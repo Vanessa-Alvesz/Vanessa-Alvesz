@@ -1,29 +1,52 @@
 # 👋 Olá, eu sou Vanessa Alves
-💻 Desenvolvedora Frontend em formação, unindo tecnologia e design para criar experiências digitais intuitivas.  
-🚀 Sempre em busca de evolução, colaboração e impacto real através da tecnologia. 
-
+💻 Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web e organização de processos.
+🚀 Sempre em busca de evolução, colaboração e impacto real através da tecnologia.
+🎯 Foco em estágio na área de Tecnologia da Informação.
 
 
 ## 🌟 Sobre mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 📊 Estudante de **Gestão de Tecnologia da Informação**
 - 🎨 Experiência como **Designer Gráfico Freelancer** (identidade visual, logotipos e artes digitais)
-- 💡 Interesse em **Frontend**, **Análise de Sistemas**, **Suporte em TI** e **Gestão de TI**
+- 💡 Interesse em Desenvolvimento Web, Análise de Sistemas e Processos
 - 📈 Perfil organizado, analítico e com visão de processos e negócios
 
+# 🚀Tecnologias e Conhecimentos
 
-## 🛠️ Tecnologias que estou aprendendo
-- HTML & CSS: Estrutura e estilo de sites, layouts responsivos.
-- JavaScript: Interatividade e lógica de front-end.
-- Python: Programação e automação básica.
+## 💻Desenvolvimento
+
+- HTML
+- CSS
+- JavaScript (fundamentos)
+- Lógica de Programação
+
+Estruturas condicionais e de repetição
+
+## 📂Gestão e Processos
+
+- Metodologias Ágeis
+- Organização de Processos
+- Gestão de Projetos (conceitos)
+- Modelagem básica de sistemas
+
+## 🎨Complementar
+Noções de UX/UI
+Experiência em identidade visual e comunicação digital
 
 **Outros conhecimentos**
-
 - Noções de UX/UI e design de interfaces  
 - Conceitos de suporte e infraestrutura de TI  
 
-## 📌 Projetos em Destaque - *Em breve…* 🚀
+## 📌Projetos Acadêmicos
 
+🔹 **Website Institucional Responsivo**
+Desenvolvimento utilizando HTML e CSS com foco em estrutura organizada e responsividade.
 
-## 🌐 Onde me encontrar
-- [LinkedIn][(https://www.linkedin.com/in/vanessa-alvesz-7a986028a)](https://www.linkedin.com/in/vanessa-alves-7a986028a/)
+🔹 **Exercícios de Lógica de Programação**
+Aplicação de estruturas condicionais e de repetição para resolução de problemas.
+
+🔹 **Projetos práticos em estágio (Academy One – ENIAC)**
+Participação em atividades voltadas ao desenvolvimento de sistemas e aplicação de conceitos aprendidos em sala.
+
+## 🌐 Onde me encontrar:
+www.linkedin.com/in/vanessa-alvesz
