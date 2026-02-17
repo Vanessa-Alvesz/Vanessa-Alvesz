@@ -11,6 +11,7 @@
 - 💡 Interesse em Desenvolvimento Web, Análise de Sistemas e Processos
 - 📈 Perfil organizado, analítico e com visão de processos e negócios
 
+
 # 🚀Tecnologias e Conhecimentos
 
 ## 💻Desenvolvimento
@@ -19,8 +20,7 @@
 - CSS
 - JavaScript (fundamentos)
 - Lógica de Programação
-
-Estruturas condicionais e de repetição
+- Estruturas condicionais e de repetição
 
 ## 📂Gestão e Processos
 
@@ -37,7 +37,7 @@ Experiência em identidade visual e comunicação digital
 - Noções de UX/UI e design de interfaces  
 - Conceitos de suporte e infraestrutura de TI  
 
-## 📌Projetos Acadêmicos
+# 📌Projetos Acadêmicos
 
 🔹 **Website Institucional Responsivo**
 Desenvolvimento utilizando HTML e CSS com foco em estrutura organizada e responsividade.
